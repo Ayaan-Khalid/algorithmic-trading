@@ -6,7 +6,7 @@ These projects reflect my interest in the intersection of statistics, financial 
 
 | # | Project | Description |
 |---|---------|-------------|
-| 1 | [SMA Crossover Backtest](./01_sma_crossover_backtest) | Event-driven backtester, 20/200 SMA crossover on SPY |
+| 1 | [SMA Crossover](./01_sma_crossover_backtest) | Event-driven backtester, 20/200 SMA crossover on SPY |
 | 2 | [Momentum Strategy](./02_momentum_strategy_backtest) | Cross-sectional 12-1 momentum on S&P 500 with transaction costs |
 | 3 | [Pairs Trading](./03_pairs_trading_backtest) | Statistical arbitrage on cointegrated consumer staples pairs |
 
